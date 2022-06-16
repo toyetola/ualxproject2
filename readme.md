@@ -1,3 +1,6 @@
+Reference for configuration codes:
+https://docs.aws.amazon.com/
+
 RUN the commnad below FROM terminal to provison the infrastructure and lauch the application
 
 The configuration files are:
